@@ -1,5 +1,5 @@
 ## Project info
-
+sparkle app
 ## How can I edit this code?
 
 There are several ways of editing your application.
